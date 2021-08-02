@@ -1,0 +1,8 @@
+TODO:
+- power ups
+- more rock sprites
+- more enemies
+- boss spawns after a certain score is reached
+- single or multiplayer option
+- seperate obj_level into multiple obj
+- sound effects

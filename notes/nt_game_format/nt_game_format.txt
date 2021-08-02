@@ -1,0 +1,21 @@
+Game Format:
+
+X   The game should be playable on HTML5 (click HERE to get a free HTML5 licence for the jam).
+
+X   The game should be around 5MB or smaller.
+
+X   The game should be playable offline (no remote data loading!).
+
+    The game should have a high score counter.
+
+X   The game should be available to play in an endless mode.
+
+X   The game should have local multiplayer OR be designed to easily include local multiplayer.
+
+X   The game and all of its visual aspects should be made during the jam development period.
+
+    You can use pre-made music and sound assets (as long as you have permission or a license).
+
+X   Your game must be free.
+
+X   You must own the IP. No fan games!
