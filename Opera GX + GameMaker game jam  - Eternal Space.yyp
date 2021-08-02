@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"obj_player_2","path":"objects/obj_player_2/obj_player_2.yy",},"order":1,},
-    {"id":{"name":"spr_rock_s","path":"sprites/spr_rock_s/spr_rock_s.yy",},"order":1,},
     {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},"order":0,},
     {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},"order":2,},
     {"id":{"name":"spr_player_1","path":"sprites/spr_player_1/spr_player_1.yy",},"order":0,},
@@ -12,6 +11,7 @@
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},"order":0,},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},"order":0,},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},"order":0,},
+    {"id":{"name":"spr_rock_s","path":"sprites/spr_rock_s/spr_rock_s.yy",},"order":1,},
     {"id":{"name":"nt_todo","path":"notes/nt_todo/nt_todo.yy",},"order":0,},
     {"id":{"name":"obj_dust","path":"objects/obj_dust/obj_dust.yy",},"order":0,},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":3,},

@@ -6,7 +6,7 @@ X   The game should be around 5MB or smaller.
 
 X   The game should be playable offline (no remote data loading!).
 
-    The game should have a high score counter.
+X   The game should have a high score counter.
 
 X   The game should be available to play in an endless mode.
 

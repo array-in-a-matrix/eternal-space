@@ -9,3 +9,7 @@ if((room == rm_gameover || room == rm_title) && keyboard_check_pressed(vk_enter)
 	score = 0;
 	room_goto(rm_level_1);
 };
+
+if (score >= highscore){
+	highscore = score;
+};

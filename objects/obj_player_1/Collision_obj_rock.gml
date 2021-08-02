@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 lives -=1;
-score -= 1000;
+score -= 5000;
 
 with(obj_spawner){
 	alarm[1] = room_speed;
