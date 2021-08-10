@@ -12,8 +12,8 @@ with(other){
 		};
 
 		if(sprite_index == spr_rock){
-			var extra_life = choose( irandom_range(1, 10));
-			if(extra_life == 2){
+			var one_out_of_ten = choose( irandom_range(1, 10));
+			if(one_out_of_ten == 2){
 				instance_create_layer(x,y,"Instances", obj_life);
 				};
 			repeat(3){

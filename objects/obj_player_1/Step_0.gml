@@ -15,7 +15,7 @@ move_wrap(true, true, sprite_height/2);
 
 
 //	DEBUG 
-
+/*
 if(keyboard_check(ord("Q"))){
 instance_create_layer(x,y, "Instances", obj_laser);
 };
@@ -27,3 +27,4 @@ if(keyboard_check(ord("D"))){
 if(keyboard_check(ord("A"))){
 	score += 100000;	
 };
+*/

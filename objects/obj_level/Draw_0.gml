@@ -21,7 +21,7 @@ switch (room){
 		draw_set_halign(fa_center)
 		draw_text_transformed_color(room_width/2, 100, "Eternal Space", 3, 3, 0, c_yellow, c_white, c_yellow, c_white, 1);
 		draw_text(room_width/2, room_height/2, "Grab a friend and try to last as long as possible!");
-		draw_text(room_width/2, room_height/2 + 50, ">> Press enter to start <<");
+		draw_text(room_width/2, room_height/2 + 50, ">> (solo) Press enter to start <<");
 		draw_set_halign(fa_left)
 		break;
 };
